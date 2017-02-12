@@ -1,3 +1,5 @@
+/*WAP to demostrate use of constructor*/
+
 #include<iostream>
 #include<conio.h>
 using namespace std;

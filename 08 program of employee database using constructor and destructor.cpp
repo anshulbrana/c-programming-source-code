@@ -1,3 +1,5 @@
+/*WAP to demostrate constructor and destructor. Create a class Employee with address age and salary and display them*/
+
 #include<iostream>
 #include<conio.h>
 using namespace std;
